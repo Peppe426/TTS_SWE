@@ -1,4 +1,4 @@
-# Swedish Community TTS
+# Swedish TTS
 
 A project to build the foundations for better **Swedish text-to-speech (TTS)**
 
