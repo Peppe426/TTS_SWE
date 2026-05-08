@@ -1,4 +1,4 @@
-# [Project Name] Source-Available License
+# TTS_SWE Source-Available License
 
 ## Version 1.0
 
